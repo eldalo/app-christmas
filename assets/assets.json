@@ -1,0 +1,55 @@
+{
+  "images": [
+    {
+      "name": "gameBackground",
+      "path": "images/game-background.png"
+    },
+    {
+      "name": "mountains",
+      "path": "images/mountains.png"
+    },
+    {
+      "name": "cloud",
+      "path": "images/cloud.png"
+    },
+    {
+      "name": "snow",
+      "path": "images/snow.png"
+    },
+    {
+      "name": "cookie",
+      "path": "images/cookie.png"
+    },
+    {
+      "name": "big",
+      "path": "images/tree-big.png"
+    },
+    {
+      "name": "small",
+      "path": "images/tree-small.png"
+    },
+    {
+      "name": "double",
+      "path": "images/trees.png"
+    },
+    {
+      "name": "play",
+      "path": "images/play.png"
+    },
+    {
+      "name": "reload",
+      "path": "images/reload.png"
+    }
+  ],
+  "sprites": [
+    {
+      "name": "nutcracker",
+      "path": "spritesheet/nutcracker.png",
+      "frames": "3",
+      "height": "48",
+      "width": "33"
+    }
+  ],
+  "audio": [
+  ]
+}
