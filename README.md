@@ -1,5 +1,5 @@
 # App Christmas
-Juego Skeleton basado en HTML5 Boilerplated, SASS, Gulp y Bower.
+Juego basado **T-Rex** de **Google** para *navidad*.
 
 ## Tener presente: ##
 1. Copiar los archivos que estan en las carpetas de **app-christmas** en su *app* o *sitio web*
